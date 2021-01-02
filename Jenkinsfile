@@ -1,2 +1,2 @@
 library 'pipeline'
-pipeline()
+ejecucion.call()
